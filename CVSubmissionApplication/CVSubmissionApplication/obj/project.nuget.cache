@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOOceZ6qRBNK7o6x560Xe6qdd/xLwWHq1ORYPsIS7J3qkbdgFPp99TZztuZBjEMq3j3sURLN9UvFV8l0ciDcGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\PasswordAPIAssessment\\CVSubmissionApplication\\CVSubmissionApplication\\CVSubmissionApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
