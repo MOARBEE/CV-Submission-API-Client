@@ -40,3 +40,24 @@ Example Response: HTTP/1.1 200 OK
 {
 Message: “Success”
 }
+
+Summarised:
+In simple terms, this project was about creating a program that does the following:
+
+1. Password Cracking: It generates many variations of the word "password" to guess the correct login for a specific website.
+
+2. Automated Login: It uses these generated passwords to try logging into the website until it succeeds.
+
+3. CV Submission: Once logged in, it packages your CV (resume) along with the program's code and the list of passwords it generated into a zip file.
+
+4. Automatic Upload: Finally, it automatically uploads this zip file to a web address provided by the website after successful login.
+
+The main goal was to demonstrate skills in programming, particularly in areas like:
+
+Working with APIs (web services)
+Handling authentication
+File operations (creating and working with zip files)
+Problem-solving (figuring out the correct password)
+Automating a multi-step process
+
+This project simulates a real-world scenario where you need to submit your CV through a secure, automated system, showcasing both coding skills and the ability to follow complex instructions.
